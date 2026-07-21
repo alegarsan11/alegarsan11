@@ -2,7 +2,7 @@
 
 My name is Alejandro García Sánchez-Hermosilla. Software Engineer, and Open Source Enthusiast from Seville (Spain).
 
-[![Alegarsan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=alegarsan11&theme=radical)]
+[![Alegarsan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=alegarsan11&theme=radical)]()
 
 ## This are my contributions in the last year
 
